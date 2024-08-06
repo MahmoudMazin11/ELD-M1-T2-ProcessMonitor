@@ -1,7 +1,7 @@
 # ELD-M1-T2-ProcessMonitor
 
-## Project Overview
-# Create a Bash script that serves as a simple process monitor, allowing users to view, manage, and analyze running processes on a Unix-like system.
+# Project Overview
+## Create a Bash script that serves as a simple process monitor, allowing users to view, manage, and analyze running processes on a Unix-like system.
 
 
 Features
